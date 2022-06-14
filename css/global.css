@@ -1,0 +1,27 @@
+.card-mt5 bg-dark {
+    background: linear-gradient(
+        
+    rgba(0,0,0,0,7),
+    rgba(0,0,0,0,7),
+
+    );
+}
+
+body.register,
+body.login{
+    min-height: 100vh;
+}
+
+.form-wrapper{background-color: #fff;padding: 1em;width: 50%;min-width: 300px;}
+.form-wrapper form{
+    background-color: #fff;
+    padding:0;
+}
+
+.alert-danger{
+    position: absolute;
+    bottom:0;
+    left: 10px;
+    width: 80%;
+    
+}
